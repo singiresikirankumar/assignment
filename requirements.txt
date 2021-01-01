@@ -1,0 +1,3 @@
+1.Python 3.6 above
+
+2.FLASK 1.1.2
